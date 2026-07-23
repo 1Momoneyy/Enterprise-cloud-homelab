@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="XABxvjqaF97udJ87xK2w">
+    <mxGraphModel dx="964" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u8BiWOj_0J_261Q-UCDd-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Internet" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u8BiWOj_0J_261Q-UCDd-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Azure Network Securiiy Group (NSG)" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="u8BiWOj_0J_261Q-UCDd-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Azure Ubuntu Server VM" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="u8BiWOj_0J_261Q-UCDd-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="UFW Firewall" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="u8BiWOj_0J_261Q-UCDd-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fail2Ban" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="u8BiWOj_0J_261Q-UCDd-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SSH Access" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="u8BiWOj_0J_261Q-UCDd-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="User &amp;amp; Group Management&lt;div&gt;RBAC + ACL Permissions&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="350" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="u8BiWOj_0J_261Q-UCDd-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="HR" vertex="1">
+          <mxGeometry height="60" width="150" x="350" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="u8BiWOj_0J_261Q-UCDd-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Finance&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="u8BiWOj_0J_261Q-UCDd-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Leadership" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="u8BiWOj_0J_261Q-UCDd-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="IT &amp;amp; Volunteers" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="u8BiWOj_0J_261Q-UCDd-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bash&amp;nbsp; Scripts + Cron Jobs" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="u8BiWOj_0J_261Q-UCDd-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Automated security &amp;amp; recovery&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="u8BiWOj_0J_261Q-UCDd-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lynis/Openscap Security Auditing" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="u8BiWOj_0J_261Q-UCDd-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Production Validation" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="1240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
